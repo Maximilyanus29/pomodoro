@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Pomodoro Timer
+Comment=Pomodoro таймер для фокусировки
+Exec=/home/max/code/pomodoro/scripts/run.sh
+Icon=io.pomodoro.Timer
+Terminal=false
+Type=Application
+Categories=Utility;Office;
+StartupNotify=true
+StartupWMClass=io.pomodoro.Timer
